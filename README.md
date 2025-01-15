@@ -7,7 +7,22 @@
 ## Requisitos
  - Docker
 
-## Executando o projeto
+## Como testar o projeto 
+
+### 1- Download da imagem do projeto
+
+- Faça o download da imagem no link abaixo:
+
+[IMAGEM DOCKER](https://hub.docker.com/r/tavarescruz/conversao-distancia)
+
+- Ou via comando **docker pull**:
+
+```bash
+docker pull tavarescruz/conversao-distancia
+
+```
+
+### 2 - Executando o projeto
 
 Acesse o diretorio do projeto e siga os passos abaixo:
 
